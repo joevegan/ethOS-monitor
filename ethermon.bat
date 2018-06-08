@@ -1,0 +1,1 @@
+node "gpu monitor.js"

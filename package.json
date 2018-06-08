@@ -1,0 +1,15 @@
+{
+  "name": "gpumon",
+  "version": "1.0.0",
+  "description": "monitors ethos rig",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^4.6.5",
+    "request": "^2.87.0"
+  }
+}
