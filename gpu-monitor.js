@@ -6,7 +6,7 @@ var targetHash = 170;
 var maxTemp = 75;
 var refreshRate = 120000;
 let userEmail = 'joevegan@gmail.com';
-let appPassword = 'passowrd';
+let appPassword = 'password';
 let emailService = 'gmail';
 
 var transporter = nodemailer.createTransport({
