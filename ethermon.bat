@@ -1,1 +1,1 @@
-node "gpu-monitor.js"
+node gpu-monitor.js
